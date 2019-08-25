@@ -11,20 +11,14 @@
       background: #eee;
       color: #666;
     }
-    .container {
-      width: 80%;
-      margin: 0 auto;
-      text-align: center;
-    }
   </style>
 </head>
 
 <body>
   <h1>X3DOM demo</h1>
   <p>html page with some 3d objects from <a href="https://doc.x3dom.org/tutorials/basics/hello/">Hello X3DDOM</a></p>
-  <div class="container">
 
-  <x3d><!-- width='600px' height='400px' -->
+  <x3d style="width: 100%;"><!-- width='600px' height='400px' -->
     <scene>
       <shape>
         <appearance>
@@ -51,7 +45,7 @@
       </transform>
     </scene>
   </x3d>
-  </div>
+
   <script type='text/javascript' src='https://www.x3dom.org/download/x3dom.js'> </script>
 
 </body>
