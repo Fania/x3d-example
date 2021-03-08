@@ -8,9 +8,11 @@
   <style>
     body {
       text-align: center;
-      background: #eee;
-      color: #666;
+      background: #333;
+      color: #ccc;
     }
+    a { color: #ccc }
+    a:hover { text-decoration: none }
   </style>
 </head>
 
@@ -22,15 +24,15 @@
     <scene>
       <shape>
         <appearance>
-        <!-- emissiveColor='0,.4,0' specularColor='0,.3,0' -->
-        <material diffuseColor='0 .4 .8' shininess='0.7' transparency='.1'></material>
+          <!-- emissiveColor='0,.4,0' specularColor='0,.3,0' -->
+          <material diffuseColor='0 .4 .8' shininess='0.7' transparency='.1'></material>
         </appearance>
         <box></box>
       </shape>
       <transform translation='-3 0 0'>
       <shape>
         <appearance>
-        <material diffuseColor='0 .8 .2' shininess='0.7' transparency='.1'></material>
+          <material diffuseColor='0 .8 .2' shininess='0.7' transparency='.1'></material>
         </appearance>
         <cone></cone>
       </shape>
@@ -38,7 +40,7 @@
       <transform translation='3 0 0'>
       <shape>
         <appearance>
-        <material diffuseColor='.9 0 .1' shininess='0.7' transparency='.1'></material>
+          <material diffuseColor='.9 0 .1' shininess='0.7' transparency='.1'></material>
         </appearance>
         <sphere></sphere>
       </shape>
