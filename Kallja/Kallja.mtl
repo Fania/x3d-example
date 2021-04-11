@@ -1,0 +1,188 @@
+#
+# mtl file for Kallja.obj obj file
+#
+
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_Body.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_000_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_taurenfemaleskin00_10_extra_hd.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_001_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_taurenfemaleskin00_10_extra_hd.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_204_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_taurenfemaleskin00_10_extra_hd.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_204
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_taurenfemale_hd_jewelry_color_3592137.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_401
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_Body.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_702
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_Body.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_1104
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_Body.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_1302
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_Body.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_2201
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_Body.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_2403_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_taurenhorns_03.png
+newmtl character/tauren/female/taurenfemale_hd.m2_Geoset_3301
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_eyes00_03_3614553.png
+newmtl item/objectcomponents/waist/buckle_leather_ardenweald_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_buckle_leather_ardenweald_d_01_campaign.png
+newmtl item/objectcomponents/waist/buckle_leather_ardenweald_d_01.m2_Geoset_000_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_buckle_leather_ardenweald_d_01_campaign.png
+newmtl item/objectcomponents/waist/buckle_leather_ardenweald_d_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_buckle_leather_ardenweald_d_01_campaign.png
+newmtl item/objectcomponents/weapon/mace_1h_ardenweald_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_mace_1h_ardenweald_d_01_3260340.png
+newmtl item/objectcomponents/weapon/mace_1h_ardenweald_d_01.m2_Geoset_000_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_mace_1h_ardenweald_d_01_3260340.png
+newmtl item/objectcomponents/weapon/mace_1h_ardenweald_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_mace_1h_ardenweald_d_01_3260340.png
+newmtl item/objectcomponents/weapon/mace_1h_ardenweald_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_mace_1h_ardenweald_d_01_3260340.png
+newmtl item/objectcomponents/weapon/mace_1h_ardenweald_d_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_mace_1h_ardenweald_d_01_3260340.png
+newmtl item/objectcomponents/weapon/mace_1h_ardenweald_d_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_mace_1h_ardenweald_d_01_3260340.png
+newmtl item/objectcomponents/weapon/offhand_1h_ardenweald_d_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_offhand_1h_ardenweald_d_01_3488374.png
+newmtl item/objectcomponents/weapon/offhand_1h_ardenweald_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Kallja_offhand_1h_ardenweald_d_01_3488374.png
