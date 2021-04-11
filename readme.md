@@ -8,3 +8,7 @@ https://cad-convert.com/en/convert/obj-to-x3d
 
 better ?
 https://castle-engine.io/convert-output.php
+
+
+https://x3dgraphics.com/slidesets/X3dForWebAuthors/Chapter05AppearanceMaterialTextures.pdf 
+page 55-56
