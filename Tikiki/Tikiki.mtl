@@ -1,0 +1,156 @@
+#
+# mtl file for Tikiki.obj obj file
+#
+
+newmtl character/goblin/female/goblinfemale.m2_Geoset_000
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 0.250000 0.250000 0.250000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_016_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_goblinfemale_hair_color_3448259.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_016
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_goblinfemale_jewelry_color_3675600.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_403
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_501
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_707
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_1104
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_1302
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_2001
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_2201
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_3511
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_goblinfemale_jewelry_color_3675600.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_4002
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_4103
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_Body.png
+newmtl character/goblin/female/goblinfemale.m2_Geoset_3301
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_eyes00_06_3484639.png
+newmtl item/objectcomponents/head/helm_misc_bunnyears_a_01_gof.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_helm_misc_bunnyears_a_01white.png
+newmtl item/objectcomponents/shoulder/rshoulder_cloth_pvpwarlock_g_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_shoulder_cloth_pvpwarlock_g_01green.png
+newmtl item/objectcomponents/shoulder/lshoulder_cloth_pvpwarlock_g_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_shoulder_cloth_pvpwarlock_g_01green.png
+newmtl item/objectcomponents/waist/buckle_cloth_revendrethraid_d_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_buckle_cloth_revendrethraid_d_01_3582632_3582632.png
+newmtl item/objectcomponents/weapon/staff_2h_newplayer_a_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tikiki_staff_2h_newplayer_a_01_gray.png
