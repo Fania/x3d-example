@@ -1,0 +1,23 @@
+{
+  "name": "x3d-example",
+  "version": "1.0.0",
+  "description": "Demo/test site for x3d models on the web.",
+  "main": "server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fania/x3d-example.git"
+  },
+  "author": "Fania Everitt",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Fania/x3d-example/issues"
+  },
+  "homepage": "https://github.com/Fania/x3d-example#readme",
+  "dependencies": {
+    "three": "^0.127.0",
+    "threejs-addons": "^1.2.13"
+  }
+}
