@@ -1,0 +1,15 @@
+newmtl mat_jaina3_body
+illum 1
+map_Kd jaina3_body.png
+newmtl mat_armorreflect_hard
+illum 1
+map_Kd armorreflect_hard.png
+newmtl mat_jaina3_hooddown
+illum 1
+map_Kd jaina3_hooddown.png
+newmtl mat_jaina3_hoodup
+illum 1
+map_Kd jaina3_hoodup.png
+newmtl mat_jaina3_pendant
+illum 1
+map_Kd jaina3_pendant.png
