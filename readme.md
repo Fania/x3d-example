@@ -52,3 +52,5 @@ Optimization and build DEF/USE reuses while converting with "-u"
 aopt -i foo.x3d -u -N foo.html
 
 https://developer.blender.org/T66534 (wtf :( )
+
+https://www.loc.gov/preservation/digital/formats/fdd/fdd000508.shtml
